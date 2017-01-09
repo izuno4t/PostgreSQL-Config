@@ -2,6 +2,8 @@
 -- check_pg_settings.sql
 --
 -- Copyright(C) 2012 Uptime Technologies, LLC. All rights reserved.
+-- see http://pgsqldeepdive.blogspot.jp/2012/12/postgresql.html
+-- see https://gist.github.com/4179435
 --
 SELECT name,
        setting,
